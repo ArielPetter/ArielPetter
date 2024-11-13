@@ -1,12 +1,21 @@
  Olá! Eu sou Ariel Petter 👨‍💻
 
- Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, estou mergulhando no mundo da programação. 🎓💻
+Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, estou mergulhando no mundo da programação. 
 
- Atualmente, estou aprimorando minhas habilidades em HTML e CSS, criando interfaces atraentes e funcionais. Além disso, estou dando os primeiros passos no desenvolvimento web dinâmico com JavaScript e React. 🚀
+Comecei meus esstudos com o básico: HTML e CSS, passando pelo JavaScript e React. Hoje estou atuando no estágio com processos ETL usando o Talend Open Studio e sintaxe de Java,      
+atendendo a solicitações de clientes para extrair e transformar dados, em larga escala, de arquivos em diferentes formatos (Excel, CSV, etc.) em JSON, facilitando a integração com  
+outros  sistemas.
+Desenvolvo serviços para automação, como envios de e-mails e controle de dados, otimizando fluxos e garantindo consistência e precisão nas informações processadas.
+Colaboro com equipes para implementar soluções de inteligência de dados, aplicando lógica para criar serviços personalizados de acordo com as necessidades do cliente. 
 
- Estou sempre buscando aprender mais e expandir meu conhecimento através de cursos online e projetos práticos. 💡
+Estou sempre buscando aprender mais e expandir meu conhecimento através de cursos online e projetos práticos. 
 
- Minhas áreas de interesse incluem desenvolvimento web, interfaces de usuário, e lógica de programação. Estou animado para colaborar em projetos interessantes e contribuir para a comunidade de código aberto! 
+Minhas áreas de interesse incluem desenvolvimento, interfaces de usuário, e lógica de programação. Estou animado para colaborar em projetos interessantes e contribuir para a comunidade de código aberto! 
+<br>
+Principais habilidades:
+Linguagens: HTML, CSS, JavaScript, Java
+Frameworks e Ferramentas: React, Talend Open Studio
+ETL e Processamento de Dados: Extração, Transformação e Carga de dados 
 <br>
 <br>
 ![ArielPetter's Stats](https://github-readme-stats.vercel.app/api?username=ArielPetter&show_icons=true&theme=transparent) 
