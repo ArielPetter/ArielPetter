@@ -2,9 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, estou mergulhando no mundo da programação. 
 
-Comecei meus esstudos com o básico: HTML e CSS, passando pelo JavaScript e React. Hoje estou atuando no estágio com processos ETL usando o Talend Open Studio e sintaxe de Java,      
-atendendo a solicitações de clientes para extrair e transformar dados, em larga escala, de arquivos em diferentes formatos (Excel, CSV, etc.) em JSON.<br> Facilitando a integração com  
-outros  sistemas. Também desenvolvo serviços para automação, como envios de e-mails e controle de dados, otimizando fluxos e garantindo consistência e precisão nas informações processadas. Colaboro com equipes para implementar soluções de inteligência de dados, aplicando lógica para criar serviços personalizados de acordo com as necessidades do cliente. 
+Comecei meus esstudos com o básico: HTML e CSS, passando pelo JavaScript e React. Hoje estou atuando no estágio com processos ETL usando o Talend Open Studio e sintaxe de Java, atendendo a pedidos de clientes para extrair e transformar dados, em larga escala, de arquivos em diferentes formatos (Excel, CSV, etc.) em JSON, facilitando a integração com outros  sistemas.<br>Também desenvolvo serviços para automação, como envios de e-mails e controle de dados, otimizando fluxos, garantindo padrão e precisão nas informações processadas.<br>Colaboro com equipes para implementar soluções de inteligência de dados, aplicando lógica para criar serviços personalizados de acordo com as necessidades do cliente. 
 
 Estou sempre buscando aprender mais e expandir meu conhecimento através de cursos online e projetos práticos. 
 
