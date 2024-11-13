@@ -13,9 +13,9 @@ Estou sempre buscando aprender mais e expandir meu conhecimento através de curs
 Minhas áreas de interesse incluem desenvolvimento, interfaces de usuário, e lógica de programação. Estou animado para colaborar em projetos interessantes e contribuir para a comunidade de código aberto! 
 <br>
 Principais habilidades:
-Linguagens: HTML, CSS, JavaScript, Java
-Frameworks e Ferramentas: React, Talend Open Studio
-ETL e Processamento de Dados: Extração, Transformação e Carga de dados 
+Linguagens: HTML, CSS, JavaScript <br>
+Frameworks e Ferramentas: React, Talend Open Studio <br>
+ETL e Processamento de Dados: Extração, Transformação e Carga de dados <br>
 <br>
 <br>
 ![ArielPetter's Stats](https://github-readme-stats.vercel.app/api?username=ArielPetter&show_icons=true&theme=transparent) 
